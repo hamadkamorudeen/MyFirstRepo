@@ -1,0 +1,3 @@
+Reflections on the Course
+
+So far I have learned about version control with Git and GitHub, basic Scratch projects (motion, looks, sound), and how to plan programs with flowcharts and pseudocode. I practiced creating repositories, branching, making pull requests, and editing files both on the web and locally.
