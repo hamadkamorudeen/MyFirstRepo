@@ -1,0 +1,4 @@
+ Brief Introduction about Myself
+You are Hamad Kamoruddeen. Your work cuts across data analysis, product design reasoning, and building early-stage tech concepts. 
+You handle structured tasks: research, documentation, workflow setup, process execution. You’ve led small teams before as class captain, senior prefect, and club president, so you function well in organized environments. You’re involved in projects such as AI-enabled travel tools, data analytics assignments, and ETL pipelines. 
+You learn fast, work independently, and adapt quickly to new operational demands.
