@@ -2,4 +2,4 @@ Brief Introduction About Myself
 I'm Hamad Kamorudeen, an ALX Pathway learner.
 I'm a data anallysis who loves data and coding.
 I love eating rice
->>>>>>> c625311c2840796355437c7d77da4396c8ad6db9
+
