@@ -1,6 +1,7 @@
-# My Personal and Academic Goals for Next Year
-
-1 - To have the higheest CGPA.
-2 -  Get a high paying job.
-3 - Build a personal brand online
-4 - Travel around 
+My Personal and Academic Goals for Next Year
+Build and launch Dominion Travel and Tours into a functioning e-tourism platform.
+Strengthen data analysis, Python, and AI automation skills to professional level.
+Complete ongoing academic and tech training programs with strong project outputs.
+Develop a portfolio that supports roles in data, product, or tech operations.
+Position yourself for international programs, internships, and funding opportunities.
+>>>>>>> c625311c2840796355437c7d77da4396c8ad6db9
